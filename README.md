@@ -1,0 +1,1 @@
+This project is a simple Automatic Health Monitoring System that manages patient health reports using a CSV file. It allows users to input their name to retrieve existing reports and helps avoid repetitive diagnostics by referencing stored data. The system is designed for demonstration purposes and does not involve real-time data or automation.
